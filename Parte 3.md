@@ -2,7 +2,7 @@
 
 ## Certificado válido de Twitch.tv.
 
-![Untitled](Proyecto%209%20-%20parte%203%20ceec262aeb334b01896d7ee1d31e80ef/Untitled.png)
+![Untitled](img/parte3-0.png)
 
 ![Untitled](Proyecto%209%20-%20parte%203%20ceec262aeb334b01896d7ee1d31e80ef/Untitled%201.png)
 
