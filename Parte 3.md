@@ -4,9 +4,9 @@
 
 ![Untitled](img/parte3-0.png)
 
-![Untitled](Proyecto%209%20-%20parte%203%20ceec262aeb334b01896d7ee1d31e80ef/Untitled%201.png)
+![Untitled](img/parte3-1.png)
 
-![Untitled](Proyecto%209%20-%20parte%203%20ceec262aeb334b01896d7ee1d31e80ef/Untitled%202.png)
+![Untitled](img/parte3-2.png)
 
 **Calificación**: Tenemos resumen de la calificación del certificado SSL, indicando una calificación de A+ teniendo la barra llena en los campos: certificado y protocolo de soporte, el intercambio de claves y fuerza del cifrado también están casi llenas, alrededor de un 90%.
 
@@ -36,11 +36,11 @@ Tres certificados erróneos de diferente tipo Analízalos también usando un se
 ### Primer certificado
 [https://edellroot.badssl.com](https://edellroot.badssl.com/)
 
-![Untitled](Proyecto%209%20-%20parte%203%20ceec262aeb334b01896d7ee1d31e80ef/Untitled%203.png)
+![Untitled](img/parte3-3.png)
 
-![Untitled](Proyecto%209%20-%20parte%203%20ceec262aeb334b01896d7ee1d31e80ef/Untitled%204.png)
+![Untitled](img/parte3-4.png)
 
-![Untitled](Proyecto%209%20-%20parte%203%20ceec262aeb334b01896d7ee1d31e80ef/Untitled%205.png)
+![Untitled](img/parte3-5.png)
 
 Podemos comprobar las siguientes razones por las cuales este certificado es erróneo:
 
@@ -51,11 +51,11 @@ Podemos comprobar las siguientes razones por las cuales este certificado es err�
 ### Segundo certificado
 [https://expired.badssl.com](https://expired.badssl.com/)
 
-![Untitled](Proyecto%209%20-%20parte%203%20ceec262aeb334b01896d7ee1d31e80ef/Untitled%206.png)
+![Untitled](img/parte3-6.png)
 
-![Untitled](Proyecto%209%20-%20parte%203%20ceec262aeb334b01896d7ee1d31e80ef/Untitled%207.png)
+![Untitled](img/parte3-7.png)
 
-![Untitled](Proyecto%209%20-%20parte%203%20ceec262aeb334b01896d7ee1d31e80ef/Untitled%208.png)
+![Untitled](img/parte3-8.png)
 
 Podemos comprobar las siguientes razones por las cuales este certificado es erróneo:
 
@@ -68,15 +68,15 @@ Podemos comprobar las siguientes razones por las cuales este certificado es err�
 
 [https://dh-composite.badssl.com](https://dh-composite.badssl.com/)
 
-![Untitled](Proyecto%209%20-%20parte%203%20ceec262aeb334b01896d7ee1d31e80ef/Untitled%209.png)
+![Untitled](img/parte3-9.png)
 
-![Untitled](Proyecto%209%20-%20parte%203%20ceec262aeb334b01896d7ee1d31e80ef/Untitled%2010.png)
+![Untitled](img/parte3-10.png)
 
-![Untitled](Proyecto%209%20-%20parte%203%20ceec262aeb334b01896d7ee1d31e80ef/Untitled%2011.png)
+![Untitled](img/parte3-11.png)
 
-![Untitled](Proyecto%209%20-%20parte%203%20ceec262aeb334b01896d7ee1d31e80ef/Untitled%2012.png)
+![Untitled](img/parte3-12.png)
 
-![Untitled](Proyecto%209%20-%20parte%203%20ceec262aeb334b01896d7ee1d31e80ef/Untitled%2013.png)
+![Untitled](img/parte3-13.png)
 
 Podemos comprobar las siguientes razones por las cuales este certificado es erróneo:
 
