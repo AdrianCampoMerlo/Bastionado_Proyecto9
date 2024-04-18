@@ -4,7 +4,7 @@ En la máquina virtual usada en la parte 1, instala un servidor web y prepáralo
 
 Una vez instalado nuestro servicio Apache2, lo hemos configurado para utilizar HTTPS con un certificado autofirmado, una vez completada toda la configuración, tendremos el siguiente resultado:
 
-![parte2.1.png](Proyecto%209%20-%20parte%202%207bb02be8a20e4b12abc8373e4baa7626/parte2.1.png)
+![parte2.1.png](img/parte2.1.png)
 
 Si examinamos nuestro certificado obtendremos lo siguiente:
 
