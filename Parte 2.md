@@ -8,15 +8,15 @@ Una vez instalado nuestro servicio Apache2, lo hemos configurado para utilizar H
 
 Si examinamos nuestro certificado obtendremos lo siguiente:
 
-![parte2.2.png](Proyecto%209%20-%20parte%202%207bb02be8a20e4b12abc8373e4baa7626/parte2.2.png)
+![parte2.2.png](img/parte2.2.png)
 
-![Untitled](Proyecto%209%20-%20parte%202%207bb02be8a20e4b12abc8373e4baa7626/Untitled.png)
+![Untitled](img/Untitled.png)
 
 Este es un certificado legítimo de un sitio web, en este caso hemos elegido el sitio web de www.twitch.tv.
 
-![parte2.3.png](Proyecto%209%20-%20parte%202%207bb02be8a20e4b12abc8373e4baa7626/parte2.3.png)
+![parte2.3.png](img/parte2.3.png)
 
-![Untitled](Proyecto%209%20-%20parte%202%207bb02be8a20e4b12abc8373e4baa7626/Untitled%201.png)
+![Untitled](img/Untitled%201.png)
 
 Ahora vamos a realizar una comparación de ambos certificados, detallando los datos más significativos de ambos:
 
